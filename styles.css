@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.main_titles {
+    font-family: 'Roboto', sans-serif;
+    font-stretch: extra-condensed;
+    font-size: 1.3rem;
+}
+
+#about {
+    position: absolute;
+    left: 44rem;
+    top: 8.8rem;
+    background-color: #252525;
+}
+
+#anilist {
+    position: absolute;
+    top: 8.8rem;     
+    left: 55rem;              
+    background-color: #252525;                                  
+}
+
+#portfolio {
+    position: absolute;
+    top: 8.8rem;
+    left: 66rem;
+    background-color: #252525;
+}
+
+#github {
+    position: absolute;
+    top: 8.8rem;
+    left: 76rem;
+    background-color: #252525;
+}
+
+#card {
+    position: absolute;
+    left: 43rem;
+    top: 12rem;
+}
+
+a:link,a:visited,a:hover,a:active {
+    color: #ffff;
+    text-decoration: none;
+}
+
+// different pages
+
+.about_main {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.vagabond {
+    position: absolute;
+    top: 6.5rem;
+    left: 40rem;
+}
+
+.aot {
+    position: absolute;
+    top: 6.5rem;
+    left: 80rem;
+}
+
+.back-about {
+    position: absolute;
+    font-size: 1rem;
+    left: 110rem;
+    top: 1rem;
+}
+
